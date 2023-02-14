@@ -1,0 +1,19 @@
+body,
+html {
+    margin: 0px;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+.btn {
+    position: absolute;
+    top: 400px;
+    left: 670px;
+    padding: 25px 30px;
+    border-radius: 10px;
+    background-color: rgb(14, 169, 186);
+    color: white;
+    font-size: xx-large;
+    font-weight: 700;
+}
